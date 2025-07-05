@@ -1,8 +1,8 @@
 {
-  "name": "Gurutips",
+  "name": "Futbaltips",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gurutips.onrender.com/",
+  "homepage": "https://futbaltips.onrender.com/",
   "proxy": "*",
   "type": "module",
   "scripts": {

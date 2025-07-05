@@ -57,7 +57,7 @@ export const faqs = [
     facebookPage: "https://www.facebook.com/profile.php?id=61569974256919&mibextid=ZbWKwL",
     xPage: "https://www.x.com/@powerking_tips",
     instagramPage: "https://instagram.com/goalgenius.vip",
-    affliateLink: "https://spin-to-win.Gurutips.com/",
+    affliateLink: "https://spin-to-win.futbaltips.com/",
     promotion: "https://refpa7921972.top/L?tag=d_3966788m_1573c_&site=3966788&ad=1573"
 }*/
 
@@ -67,7 +67,7 @@ export const socialLinks = {
     facebookPage: "https://www.facebook.com/profile.php?id=61576948975853",
     xPage: "https://www.x.com/@powerking_tips",
     instagramPage: "https://www.instagram.com/gurutips1x2",
-    affliateLink: "https://spin-to-win.Gurutips.com/",
+    affliateLink: "https://spin-to-win.futbaltips.com/",
     promotion: "https://refpa7921972.top/L?tag=d_3966788m_1573c_&site=3966788&ad=1573"
 }
 
