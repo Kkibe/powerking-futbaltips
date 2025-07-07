@@ -63,7 +63,7 @@ export default function PaystackPayments({ setUserData }) {
     reference: (new Date()).getTime().toString(),
     email: currentUser.email,
     amount: price * 100,
-    publicKey: 'pk_test_3d007cd4e8f10ee99e8b6e0ad46c90b549198d86',
+    publicKey: 'pk_live_125cbffa1326ce7abaa5d5458368840dfa3a912c',
     currency: "KES",
     metadata: {
       name: currentUser.email,
