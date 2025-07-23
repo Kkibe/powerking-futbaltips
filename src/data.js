@@ -51,20 +51,10 @@ export const faqs = [
     },
 ]
 
-/*export const socialLinks = {
-    telegramChannel: "https://t.me/bet365gurus",
-    whatsappChannel: "https://whatsapp.com/channel/0029Vb3Louu9xVJktevbuZ2K",
-    facebookPage: "https://www.facebook.com/profile.php?id=61569974256919&mibextid=ZbWKwL",
-    xPage: "https://www.x.com/@powerking_tips",
-    instagramPage: "https://instagram.com/goalgenius.vip",
-    affliateLink: "https://spin-to-win.futbaltips.com/",
-    promotion: "https://refpa7921972.top/L?tag=d_3966788m_1573c_&site=3966788&ad=1573"
-}*/
-
 export const socialLinks = {
-    telegramChannel: "https://t.me/gurutipsvip",
-    whatsappChannel: "https://whatsapp.com/channel/0029VbAxLiL8vd1UgOgNBE2d",
-    facebookPage: "https://www.facebook.com/profile.php?id=61576948975853",
+    telegramChannel: "https://t.me/futball_tipss",
+    whatsappChannel: "https://whatsapp.com/channel/0029Vb6G2gv9hXF9BS0XC42f",
+    facebookPage: "https://www.facebook.com/profile.php?id=61578058720986",
     xPage: "https://www.x.com/@powerking_tips",
     instagramPage: "https://www.instagram.com/gurutips1x2",
     affliateLink: "https://spin-to-win.futbaltips.com/",
